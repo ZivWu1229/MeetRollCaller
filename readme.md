@@ -1,8 +1,4 @@
-<style>
-  .version{
-    margin-left: 1em;
-  }
-</style>
+
 <h1 align="center">Meet Roll Caller</h1>
 
 <p align="center">
@@ -34,6 +30,6 @@
 <div class="version">
   <h3>v0.1.1</h3>
   <ol>
-    <li></li>
+    <li>修復無法登入、儲存檔案、讀取檔案錯誤</li>
   </ol>
 </div>
